@@ -1,0 +1,14 @@
+{
+  "name": "mygittutorial",
+  "version": "1.0.0",
+  "description": "This is a tutorial for setting up git repos",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen M.",
+  "license": "ISC",
+  "dependencies": {
+    "sentiment": "^5.0.2"
+  }
+}
